@@ -5,6 +5,7 @@
         <content>
             <Text id="idtext" text="Hello !!!"/>
             <Text id="idtext1" text="First change"/>
+            <Text id="idtext3" text="Second change"/>
         </content>
     </Page>
 </mvc:View>
